@@ -1,0 +1,143 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main1{
+    background-color: #f0b905c0;
+  
+    height: 100vh;
+}
+img{
+    height: 80px;
+    position:absolute;
+    left: 80%;
+    top: 5%;
+}
+button{
+    height: 50px;
+    width: 60%;
+    background-color: rgba(58, 20, 2, 0.87);
+    border: none;
+    position: absolute;
+    top: 6%;
+}
+a{
+    color: #f0b905c0;
+    text-decoration: none;
+    font-size: 25px;
+    margin-left: 150px;
+}
+h1{
+    font-size: 85px;
+    color: rgb(255, 139, 6);
+    margin-left: 9%;
+    margin-top: 15%;
+}
+h2{
+    font-size: 150px;
+    color: rgba(58,20,2,0.87);
+    margin-left: 9%;
+    margin-top: 1dvh;
+}
+h3{
+   
+    color: rgb(255, 139, 6);
+    margin-right: 100px;
+   
+}
+p{
+    color: rgba(58,20,2,0.87);
+    font-size: 15px;
+    margin-left: 20px;
+    margin-top: 1%;
+}
+
+.for{
+    position: absolute;
+    left: 85%;
+    
+}
+input{
+    background-color: rgba(58, 20, 2, 0.87);
+    border: none;
+    border-radius: 5px;
+    height: 30px;
+    margin-top: 30px;
+    width: 150px;
+    color: rgb(255,139,6);
+}
+
+
+.main2{
+    background-color: #f0b905c0;
+  
+    height: 100vh;
+}
+.bo1{
+    height: 40%;
+    width: 15%;
+    background-color: rgba(58, 20, 2, 0.87);
+    padding-top: 60px;
+    margin-left: 100px;
+    border-radius: 25px;
+}
+.bo1 p{
+    color: #f0b905c0;
+  margin-top: 35px;
+}
+
+.bo2{
+    height: 40%;
+    width: 15%;
+    background-color: rgba(58, 20, 2, 0.87);
+    padding-top: 60px;
+    margin-left: 100px;
+    border-radius: 25px;
+}
+.bo2 p{
+    color: #f0b905c0;
+  margin-top: 35px;
+}
+
+.bo3{
+    height: 40%;
+    width: 15%;
+    background-color: rgba(58, 20, 2, 0.87);
+    padding-top: 60px;
+    margin-left: 100px;
+    border-radius: 25px;
+}
+.bo3 p{
+    color: #f0b905c0;
+  margin-top: 35px;
+}
+.ti{
+    display: flex;
+    height: 80%;
+    justify-content: center;
+}
+img{
+    height: 300px;
+    width: 120%;
+    margin-top: 70%;
+    margin-left: -100%;
+}
+.main3{
+    background-color: #f0b905c0;
+    height: 100vh;
+}
+.main3 p{
+    color: rgba(58, 20, 2, 0.87) ;
+    margin-left: 200px;
+    margin-right: 200px;
+
+}
+/* .mhgf{
+    background-color:#f0b905c0;
+    height: 100vh;
+}
+.mainfg{
+    display: flex;
+    justify-content: center;
+} */
+
